@@ -15,6 +15,7 @@ cd config
 mkdir custom_components
 cd custom_components
 git clone https://github.com/rwxvaku/ha_xenserver
+mv ha_xenserver test_hello
 ```
 
 #### Activating
